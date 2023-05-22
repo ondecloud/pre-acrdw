@@ -1,6 +1,6 @@
 # Across Download
 
-`Across Download` is a new age download tool that aims for faster download speeds, more complete uninstall protocol support, and better performance
+`Across Download` is a new age download tool that aims for faster download speeds, more complete protocol support, and better performance
 
 # How to use
 
