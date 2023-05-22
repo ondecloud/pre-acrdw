@@ -5,19 +5,19 @@
 # How to use
 
 ## Command line mode
-`
+```
   arc.exe `download link`
-`
+```
 
 ## Web mode
 
-`
+```
 #Be adapting
-`
+```
 
 ## Daemon mode
 
-`
+```
 #Be adapting
-`
+```
 
